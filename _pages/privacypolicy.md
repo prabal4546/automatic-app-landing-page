@@ -6,6 +6,7 @@ include_in_header: true
 
 
 **Privacy Policy**
+
 "Data provided by Marvel. © 2014 Marvel"
 
 Prabaljit Walia built the Marvel Connect app as a Free app. This SERVICE is provided by Prabaljit Walia at no cost and is intended for use as is.
