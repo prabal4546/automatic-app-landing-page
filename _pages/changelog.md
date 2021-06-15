@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-
+- SwiftUI 3.0 updates coming soon!
 
 <br>
 
