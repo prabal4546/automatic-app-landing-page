@@ -20,7 +20,7 @@ include_in_header: true
 
 <br>
 
-#### Bug Fixes
-- 
+# **Version 1.1**
+- Bug fixes & enhancements.
 
 <br>
