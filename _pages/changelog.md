@@ -1,11 +1,11 @@
 ---
 layout: page
-title: What's New
+title: Logs
 include_in_header: true
 ---
 
 # Changelog
-- SwiftUI 3.0 updates coming soon!
+- An issue with iPhone X where comics view takes a lot of time buffering has been reported & a fix will be released soon. 
 
 <br>
 
