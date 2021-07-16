@@ -10,6 +10,10 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 1.1**
+- Bug fixes & enhancements.
+
+<br>
 
 ### `Initial Release`
 # **Version 1.0**
@@ -20,7 +24,4 @@ include_in_header: true
 
 <br>
 
-# **Version 1.1**
-- Bug fixes & enhancements.
 
-<br>
