@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-- An issue with iPhone X where comics view takes a lot of time buffering has been reported & a fix will be released soon. 
+- (Fix released with 1.2) An issue with iPhone X where comics view takes a lot of time buffering has been reported & a fix will be released soon. 
 
 <br>
 
